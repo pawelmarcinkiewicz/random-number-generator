@@ -10,7 +10,7 @@ You can run this application using Maven command:
 mvn spring-boot:run
 
 # About
-Purpose of this program is to fetch two random numbers: one from Random.org API and one from predefinied database (H2) and add these two number together.
+Purpose of this program is to fetch two random numbers: one from Random.org API and one from predefinied database (H2) and add these two numbers together.
 
 ### Home Page (localhost:8080/):  
 ![Home Page](https://i.ibb.co/Hnrhc2G/Adnotacja-2020-03-04-225543.png)  
