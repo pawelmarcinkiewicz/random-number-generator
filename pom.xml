@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.pmarcin.projects.rng</groupId>
 	<artifactId>random-number-generator</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>random-number-generator</name>
 	<description>Random number generator</description>
 
