@@ -1,9 +1,9 @@
 # Random Number Generator
-## Random Number Generator is simple program created in Spring Boot using Spring MVC and Spring Data.
+## Random Number Generator is simple program created in Spring Boot.
 
 Technologies used:
 - Java 8
-- Spring Boot
+- Spring Boot (with Spring MVC and Spring Data)
 - Maven
 
 You can run this application using Maven command:
